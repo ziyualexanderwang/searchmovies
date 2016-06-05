@@ -41,6 +41,17 @@ body {
   text-align: center;
 }
 
+#content img {
+  width: 100%;
+  height: auto;
+}
+
+#content p {
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: left;
+}
+
 #footer {
   position: fixed;
   bottom: 0;
